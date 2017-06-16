@@ -1,0 +1,13 @@
+# Meavn #
+target/
+
+# IDEA #
+.deal/
+*.iml
+
+# Eclipse #
+.settings/
+.metadata/
+.classpath
+.project
+Servers/
